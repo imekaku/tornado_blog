@@ -1,4 +1,13 @@
-# tornado_blog
-这是一个学习tornado框架的库，通过分离和添加一些东西学习，练习场所
+# tornado blog
 
-## Maybe it will be deleted later.
+### Create some files to create tornado projects like blog projects conveniently.
+
+## Directory Structure
+
+> |--- main.py
+> |--- application.py
+> |--- router.py
+> |--- setting.py
+> |--- handler
+> |    |--- __init__.py
+> |    |--- index.py
